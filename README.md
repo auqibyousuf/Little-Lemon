@@ -29,7 +29,6 @@ The little lemon app is the capstone project for Meta's Front-End Developer Cert
 
 <h2 id="live">👁️‍🗨️ Live</h2>
 
-This project is hosted at Github Pages of this repository by the link <a href="https://leonardojacomussi.github.io/little-lemon/" target="_blank">https://leonardojacomussi.github.io/little-lemon/</a>
 
 <h2 id="technologies">🚀 Technologies</h2>
 
